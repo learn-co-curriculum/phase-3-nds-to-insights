@@ -28,8 +28,8 @@ started whenever you have an NDS that you need to process for insights.
 ## NDS to Insight Strategy
 
 1. Understand the NDS
-  * Pretty-Print It with `pp`
-  * Print Arrays
+  * Pretty-Print NDS with `pp`
+  * Home-Grown Pretty-Print Arrays
 2. Use `[]` to verify your understanding from Step 1
   * Print values to verify your understanding
   * Leave code comments and documentation for yourself
